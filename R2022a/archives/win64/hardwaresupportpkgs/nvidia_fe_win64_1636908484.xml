@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hardwaresupportpkgs/nvidia_fe</componentBaseName>
+    <componentFileName>hardwaresupportpkgs/nvidia_fe_win64_1636908484.zip</componentFileName>
+    <componentName>hardwaresupportpkgs/nvidia_fe_win64</componentName>
+    <componentVersion>1636908484</componentVersion>
+    <demo>1</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>16</numFiles>
+    <platformList>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2022a</releaseFamily>
+    <size>877198</size>
+    <type />
+    <uncompressedBytes>876116</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hardwaresupportpkgs/matlab/ipcamera</componentBaseName>
+    <componentFileName>hardwaresupportpkgs/matlab/ipcamera_maci64_1659659723.zip</componentFileName>
+    <componentName>hardwaresupportpkgs/matlab/ipcamera_maci64</componentName>
+    <componentVersion>1659659723</componentVersion>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>5</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2022a</releaseFamily>
+    <size>201257</size>
+    <type />
+    <uncompressedBytes>752608</uncompressedBytes>
+  </component>
+</componentData>

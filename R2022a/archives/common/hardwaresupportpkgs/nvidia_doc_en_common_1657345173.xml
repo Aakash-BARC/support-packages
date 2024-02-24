@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hardwaresupportpkgs/nvidia_doc_en</componentBaseName>
+    <componentFileName>hardwaresupportpkgs/nvidia_doc_en_common_1657345173.zip</componentFileName>
+    <componentName>hardwaresupportpkgs/nvidia_doc_en_common</componentName>
+    <componentVersion>1657345173</componentVersion>
+    <demo>0</demo>
+    <doc>1</doc>
+    <doc_build>1</doc_build>
+    <doc_search>0</doc_search>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>749</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>maca64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2022a</releaseFamily>
+    <size>6075319</size>
+    <type />
+    <uncompressedBytes>15141821</uncompressedBytes>
+  </component>
+</componentData>

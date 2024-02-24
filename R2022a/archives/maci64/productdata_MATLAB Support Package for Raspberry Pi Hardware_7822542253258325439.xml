@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>aps_pubsub_client_cpp/pubsub_maci64</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1636799857</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/raspi_maci64</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1636878784</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/asyncioplugins_maci64</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1636826392</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/shared_linuxservices_maci64</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1649309243</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/svd_maci64</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1636877426</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/raspberrypiio_fe_maci64</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1643318700</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/embeddedlinux_maci64</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1649312239</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platform>maci64</platform>
+  <productBaseCode>RASPPIIO</productBaseCode>
+  <productName>MATLAB Support Package for Raspberry Pi Hardware</productName>
+  <productNumber>2026</productNumber>
+  <productType>hardwareSupportPkg</productType>
+  <productVersion>22.1.3</productVersion>
+  <releaseDescription>R2022a</releaseDescription>
+  <releaseFamily>R2022a</releaseFamily>
+</productAdditionalComps>

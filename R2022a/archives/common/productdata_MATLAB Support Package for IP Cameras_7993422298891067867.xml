@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productData>
+  <altDependencies>
+    <product>
+      <isControllingProduct>true</isControllingProduct>
+      <productBaseCode>ML</productBaseCode>
+      <productName>MATLAB</productName>
+      <productNumber>1</productNumber>
+      <productVersion>9.12</productVersion>
+      <releaseDescription>R2022a</releaseDescription>
+      <releaseFamily>R2022a</releaseFamily>
+    </product>
+  </altDependencies>
+  <dependsOn>
+    <component>
+      <name>hardwaresupportpkgs/licenses/asla_license_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1643069424</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/licenses/ciscoh264_license_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1636788750</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/matlab/ipcamera_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1636813092</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/ipcamera_doc_en_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1659801540</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/matlab/camera_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1636812073</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/matlab/camera_resources_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1636788912</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/matlab/spkg_ddux_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1636811988</version>
+    </component>
+  </dependsOn>
+  <installerUsage>
+    <usage>professional</usage>
+  </installerUsage>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>CISCO</licenseAgreementType>
+  <platformList>
+    <platform>glnxa64</platform>
+    <platform>maci64</platform>
+    <platform>win64</platform>
+  </platformList>
+  <productBaseCode>ML_IP_CAMERAS</productBaseCode>
+  <productName>MATLAB Support Package for IP Cameras</productName>
+  <productNumber>2127</productNumber>
+  <productType>hardwareSupportPkg</productType>
+  <productVersion>22.1.1</productVersion>
+  <releaseDescription>R2022a</releaseDescription>
+  <releaseFamily>R2022a</releaseFamily>
+  <requiredProducts />
+</productData>

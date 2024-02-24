@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>hardwaresupportpkgs/targets/nvidia_win64</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>win64</platform>
+      </platformList>
+      <version>1657366580</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/nvidia_fe_win64</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>win64</platform>
+      </platformList>
+      <version>1636908484</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/shared_linuxservices_win64</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>win64</platform>
+      </platformList>
+      <version>1643319974</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/embeddedlinux_win64</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>win64</platform>
+      </platformList>
+      <version>1649322354</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/svd_win64</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>win64</platform>
+      </platformList>
+      <version>1641351353</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platform>win64</platform>
+  <productBaseCode>NVIDIA</productBaseCode>
+  <productName>MATLAB Coder Support Package for NVIDIA Jetson and NVIDIA DRIVE Platforms</productName>
+  <productNumber>2196</productNumber>
+  <productType>hardwareSupportPkg</productType>
+  <productVersion>22.1.3</productVersion>
+  <releaseDescription>R2022a</releaseDescription>
+  <releaseFamily>R2022a</releaseFamily>
+</productAdditionalComps>

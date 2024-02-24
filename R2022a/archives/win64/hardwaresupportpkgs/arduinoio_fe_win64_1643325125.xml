@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hardwaresupportpkgs/arduinoio_fe</componentBaseName>
+    <componentFileName>hardwaresupportpkgs/arduinoio_fe_win64_1643325125.zip</componentFileName>
+    <componentName>hardwaresupportpkgs/arduinoio_fe_win64</componentName>
+    <componentVersion>1643325125</componentVersion>
+    <demo>1</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>14</numFiles>
+    <platformList>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2022a</releaseFamily>
+    <size>365461</size>
+    <type />
+    <uncompressedBytes>366195</uncompressedBytes>
+  </component>
+</componentData>

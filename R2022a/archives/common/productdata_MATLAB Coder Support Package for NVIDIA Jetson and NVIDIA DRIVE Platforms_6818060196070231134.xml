@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productData>
+  <altDependencies>
+    <product>
+      <productBaseCode>ME</productBaseCode>
+      <productName>MATLAB Coder</productName>
+      <productNumber>135</productNumber>
+      <productVersion>5.4</productVersion>
+      <releaseDescription>R2022a</releaseDescription>
+      <releaseFamily>R2022a</releaseFamily>
+    </product>
+  </altDependencies>
+  <dependsOn>
+    <component>
+      <name>hardwaresupportpkgs/licenses/asla_license_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1643069424</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/nvidia_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1657281023</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/nvidia_examples_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1654685076</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/nvidia_resources_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1644002627</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/nvidia_doc_en_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1657345173</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/examples/nvidia_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1657295058</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/targetsdk_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1651408507</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/targetsdk_resources_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1636788892</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/shared_linuxservices_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1649286625</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/shared_linuxservices_resources_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1636788877</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/file_logging_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1636860305</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/embeddedlinux_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1651408267</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/embeddedlinux_resources_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1636788898</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/svd_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1643832334</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/svd_resources_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1636788897</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/shared_nvidia_blocks_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1654680655</version>
+    </component>
+    <component>
+      <name>hardwaresupportpkgs/targets/shared_nvidia_blocks_resources_common</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>maca64</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1636788905</version>
+    </component>
+  </dependsOn>
+  <installerUsage>
+    <usage>professional</usage>
+  </installerUsage>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platformList>
+    <platform>glnxa64</platform>
+    <platform>win64</platform>
+  </platformList>
+  <productBaseCode>NVIDIA</productBaseCode>
+  <productName>MATLAB Coder Support Package for NVIDIA Jetson and NVIDIA DRIVE Platforms</productName>
+  <productNumber>2196</productNumber>
+  <productType>hardwareSupportPkg</productType>
+  <productVersion>22.1.3</productVersion>
+  <releaseDescription>R2022a</releaseDescription>
+  <releaseFamily>R2022a</releaseFamily>
+  <requiredProducts />
+</productData>
